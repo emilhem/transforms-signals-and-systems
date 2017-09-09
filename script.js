@@ -92,7 +92,7 @@
             y: 485,
             width: 510,
             height: 150,
-            func: 'y(t) = ∫ h(v) x(t - v) dv',
+            func: 'y(t) = ∫ h(v) x(t - v) dv (NOT FINISHED!)',
             varx: 't',
             mousemove: timeShiftGraph,
             render: renderCombination,
